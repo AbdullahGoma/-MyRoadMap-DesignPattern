@@ -1,0 +1,14 @@
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\SingleResponsibilty\SingleResponsibilty\bin\Debug\net6.0\SingleResponsibilty.exe
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\SingleResponsibilty\SingleResponsibilty\bin\Debug\net6.0\SingleResponsibilty.deps.json
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\SingleResponsibilty\SingleResponsibilty\bin\Debug\net6.0\SingleResponsibilty.runtimeconfig.json
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\SingleResponsibilty\SingleResponsibilty\bin\Debug\net6.0\SingleResponsibilty.dll
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\SingleResponsibilty\SingleResponsibilty\bin\Debug\net6.0\SingleResponsibilty.pdb
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\SingleResponsibilty\SingleResponsibilty\obj\Debug\net6.0\SingleResponsibilty.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\SingleResponsibilty\SingleResponsibilty\obj\Debug\net6.0\SingleResponsibilty.AssemblyInfoInputs.cache
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\SingleResponsibilty\SingleResponsibilty\obj\Debug\net6.0\SingleResponsibilty.AssemblyInfo.cs
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\SingleResponsibilty\SingleResponsibilty\obj\Debug\net6.0\SingleResponsibilty.csproj.CoreCompileInputs.cache
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\SingleResponsibilty\SingleResponsibilty\obj\Debug\net6.0\SingleResponsibilty.dll
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\SingleResponsibilty\SingleResponsibilty\obj\Debug\net6.0\refint\SingleResponsibilty.dll
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\SingleResponsibilty\SingleResponsibilty\obj\Debug\net6.0\SingleResponsibilty.pdb
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\SingleResponsibilty\SingleResponsibilty\obj\Debug\net6.0\SingleResponsibilty.genruntimeconfig.cache
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\SingleResponsibilty\SingleResponsibilty\obj\Debug\net6.0\ref\SingleResponsibilty.dll

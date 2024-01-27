@@ -1,0 +1,14 @@
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\bin\Debug\net6.0\OpenClosed.exe
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\bin\Debug\net6.0\OpenClosed.deps.json
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\bin\Debug\net6.0\OpenClosed.runtimeconfig.json
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\bin\Debug\net6.0\OpenClosed.dll
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\bin\Debug\net6.0\OpenClosed.pdb
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\OpenClosed.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\OpenClosed.AssemblyInfoInputs.cache
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\OpenClosed.AssemblyInfo.cs
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\OpenClosed.csproj.CoreCompileInputs.cache
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\OpenClosed.dll
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\refint\OpenClosed.dll
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\OpenClosed.pdb
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\OpenClosed.genruntimeconfig.cache
+F:\ITI-Course\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\ref\OpenClosed.dll
