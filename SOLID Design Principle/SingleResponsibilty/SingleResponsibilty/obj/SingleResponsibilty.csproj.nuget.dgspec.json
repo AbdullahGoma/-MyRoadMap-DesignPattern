@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ITI-Course\\13- Design Pattern\\SOLID Design Principle\\SingleResponsibilty\\SingleResponsibilty\\SingleResponsibilty.csproj": {}
+    "F:\\My RoadMap\\13- Design Pattern\\SOLID Design Principle\\SingleResponsibilty\\SingleResponsibilty\\SingleResponsibilty.csproj": {}
   },
   "projects": {
-    "F:\\ITI-Course\\13- Design Pattern\\SOLID Design Principle\\SingleResponsibilty\\SingleResponsibilty\\SingleResponsibilty.csproj": {
+    "F:\\My RoadMap\\13- Design Pattern\\SOLID Design Principle\\SingleResponsibilty\\SingleResponsibilty\\SingleResponsibilty.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ITI-Course\\13- Design Pattern\\SOLID Design Principle\\SingleResponsibilty\\SingleResponsibilty\\SingleResponsibilty.csproj",
+        "projectUniqueName": "F:\\My RoadMap\\13- Design Pattern\\SOLID Design Principle\\SingleResponsibilty\\SingleResponsibilty\\SingleResponsibilty.csproj",
         "projectName": "SingleResponsibilty",
-        "projectPath": "F:\\ITI-Course\\13- Design Pattern\\SOLID Design Principle\\SingleResponsibilty\\SingleResponsibilty\\SingleResponsibilty.csproj",
+        "projectPath": "F:\\My RoadMap\\13- Design Pattern\\SOLID Design Principle\\SingleResponsibilty\\SingleResponsibilty\\SingleResponsibilty.csproj",
         "packagesPath": "C:\\Users\\asm\\.nuget\\packages\\",
-        "outputPath": "F:\\ITI-Course\\13- Design Pattern\\SOLID Design Principle\\SingleResponsibilty\\SingleResponsibilty\\obj\\",
+        "outputPath": "F:\\My RoadMap\\13- Design Pattern\\SOLID Design Principle\\SingleResponsibilty\\SingleResponsibilty\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

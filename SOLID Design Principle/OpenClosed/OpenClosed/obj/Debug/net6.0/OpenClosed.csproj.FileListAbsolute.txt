@@ -12,3 +12,18 @@ F:\ITI-Course\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\ob
 F:\ITI-Course\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\OpenClosed.pdb
 F:\ITI-Course\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\OpenClosed.genruntimeconfig.cache
 F:\ITI-Course\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\ref\OpenClosed.dll
+F:\My RoadMap\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\bin\Debug\net6.0\OpenClosed.exe
+F:\My RoadMap\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\bin\Debug\net6.0\OpenClosed.deps.json
+F:\My RoadMap\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\bin\Debug\net6.0\OpenClosed.runtimeconfig.json
+F:\My RoadMap\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\bin\Debug\net6.0\OpenClosed.dll
+F:\My RoadMap\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\bin\Debug\net6.0\OpenClosed.pdb
+F:\My RoadMap\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\OpenClosed.GeneratedMSBuildEditorConfig.editorconfig
+F:\My RoadMap\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\OpenClosed.AssemblyInfoInputs.cache
+F:\My RoadMap\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\OpenClosed.AssemblyInfo.cs
+F:\My RoadMap\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\OpenClosed.csproj.CoreCompileInputs.cache
+F:\My RoadMap\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\OpenClosed.sourcelink.json
+F:\My RoadMap\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\OpenClosed.dll
+F:\My RoadMap\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\refint\OpenClosed.dll
+F:\My RoadMap\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\OpenClosed.pdb
+F:\My RoadMap\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\OpenClosed.genruntimeconfig.cache
+F:\My RoadMap\13- Design Pattern\SOLID Design Principle\OpenClosed\OpenClosed\obj\Debug\net6.0\ref\OpenClosed.dll

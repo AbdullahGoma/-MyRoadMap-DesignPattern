@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ITI-Course\\13- Design Pattern\\SOLID Design Principle\\OpenClosed\\OpenClosed\\OpenClosed.csproj": {}
+    "F:\\My RoadMap\\13- Design Pattern\\SOLID Design Principle\\OpenClosed\\OpenClosed\\OpenClosed.csproj": {}
   },
   "projects": {
-    "F:\\ITI-Course\\13- Design Pattern\\SOLID Design Principle\\OpenClosed\\OpenClosed\\OpenClosed.csproj": {
+    "F:\\My RoadMap\\13- Design Pattern\\SOLID Design Principle\\OpenClosed\\OpenClosed\\OpenClosed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ITI-Course\\13- Design Pattern\\SOLID Design Principle\\OpenClosed\\OpenClosed\\OpenClosed.csproj",
+        "projectUniqueName": "F:\\My RoadMap\\13- Design Pattern\\SOLID Design Principle\\OpenClosed\\OpenClosed\\OpenClosed.csproj",
         "projectName": "OpenClosed",
-        "projectPath": "F:\\ITI-Course\\13- Design Pattern\\SOLID Design Principle\\OpenClosed\\OpenClosed\\OpenClosed.csproj",
+        "projectPath": "F:\\My RoadMap\\13- Design Pattern\\SOLID Design Principle\\OpenClosed\\OpenClosed\\OpenClosed.csproj",
         "packagesPath": "C:\\Users\\asm\\.nuget\\packages\\",
-        "outputPath": "F:\\ITI-Course\\13- Design Pattern\\SOLID Design Principle\\OpenClosed\\OpenClosed\\obj\\",
+        "outputPath": "F:\\My RoadMap\\13- Design Pattern\\SOLID Design Principle\\OpenClosed\\OpenClosed\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

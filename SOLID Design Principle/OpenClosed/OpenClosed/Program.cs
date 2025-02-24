@@ -39,7 +39,7 @@ namespace OpenClosed
         public IEnumerable<Product> FilterBySize(IEnumerable<Product> products, Size size)
         {
             foreach (Product product in products)
-                if (product.Size == size) yield return product;
+                if (product.Size == size) yield return product; // Lazy Loading
         }
         
         public IEnumerable<Product> FilterByColor(IEnumerable<Product> products, Color color)
@@ -128,7 +128,7 @@ namespace OpenClosed
             var tree = new Product("Tree", Color.Green, Size.Large);
             var house = new Product("House", Color.Blue, Size.Large);
 
-            Product[] products = {apple, tree, house };
+            Product[] products = { apple, tree, house };
             var productFilter = new ProductFilter();
             Console.WriteLine("Green Produts (old):");
 

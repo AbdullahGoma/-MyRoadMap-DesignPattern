@@ -2,67 +2,59 @@
 
 namespace SingleResponsibilty
 {
-    // Class is Responsiple for one thing...
-    public class Journal
+    
+
+    public class Program
     {
-        private readonly List<string> entries = new();
-
-        private static int count = 0;   
-
-        public int AddEntry(string entry)
+        // Every Class should have just a single reason to change
+        // We applied separation of concerns
+        public class Journal // Concerns with entries
         {
-            entries.Add($"{++count}: {entry}");
-            return count;
-        }
+            private readonly List<string> entries = new();
+            private static int count = 0;
 
-        public void RemoveEntry(int index)
+            public int AddEntry(string text)
+            {
+                entries.Add($"{++count}: {text}");
+                return count; // momento pattern
+            }
+
+            public void RemoveEntry(int index)
+            {
+                entries.RemoveAt(index);
+            }
+
+            public override string ToString()
+            {
+                return string.Join(Environment.NewLine, entries);
+            }
+        }
+         
+        public class Persistence // Concerns with saving object
         {
-            entries.RemoveAt(index);
+            public void SaveToFile(Journal journal, string filename, bool otherwise = false)
+            {
+                if (otherwise || !File.Exists(filename))
+                    File.WriteAllText(filename, journal.ToString());
+            }
         }
-
-        public override string ToString()
-        {
-            return string.Join(Environment.NewLine, entries);
-        }
-
-
-        //public void SaveToFile(Journal journal, string filename, bool overwrite = false)
-        //{
-        //    if (overwrite || !File.Exists(filename)) 
-        //        File.WriteAllText(filename, journal.ToString());
-        //}
-
-
-    }
-
-
-    public class Persistence
-    {
-        public void SaveToFile(Journal journal, string filename, bool overwrite = false)
-        {
-            if (overwrite || !File.Exists(filename))
-                File.WriteAllText(filename, journal.ToString());
-        }
-    }
- 
-
-
-    internal class Program
-    {
         static void Main(string[] args)
         {
             var journal = new Journal();
-            journal.AddEntry("I write code now");
-            journal.AddEntry("I ate egg today");
-            Console.WriteLine(journal);
+            journal.AddEntry("I Study Today!");
+            journal.AddEntry("I ate Potato!");
 
+            //Console.WriteLine(journal);
+            var persistence = new Persistence();
+            var filename = @"F:\My RoadMap\13- Design Pattern\SOLID Design Principle\test.txt";
+            persistence.SaveToFile(journal, filename, true);
+            // Open the file with the default text editor
+            ProcessStartInfo startInfo = new ProcessStartInfo(filename)
+            {
+                UseShellExecute = true
+            };
 
-            var persistance = new Persistence();
-            var filename = @"F:\ITI-Course\13- Design Pattern\SOLID Design Principle\test.txt";
-            persistance.SaveToFile(journal, filename, true);
-            new Process { StartInfo = new ProcessStartInfo(filename) { UseShellExecute = true } }.Start();
-            //Process.Start(filename);
-
+            Process.Start(startInfo);
         }
     }
 }
