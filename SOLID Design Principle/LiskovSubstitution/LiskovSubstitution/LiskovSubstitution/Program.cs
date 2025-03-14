@@ -101,6 +101,7 @@
             // The problem is Square must behave as square even if it has another reference
             Rectangle sq = new Square();
             sq.Width = 4;
+            sq.Height = 5;
             Console.WriteLine($"{sq} has area {Area(sq)}");
 
             // The solve is make Rectangle props virtual, and override it in Square and it Solved
